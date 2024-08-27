@@ -1,0 +1,10 @@
+{
+    "projectDetail": [
+        {
+            "id": "1",
+            "name": "Landing Page",
+            "description": "Simple Landing Page",
+            "tech-stack": ["html", "css", "javascript"]
+        }
+    ]
+}
