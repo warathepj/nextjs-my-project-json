@@ -2,9 +2,20 @@
     "projectDetail": [
         {
             "id": "1",
-            "name": "Landing Page",
+            "name": "AI Gallery",
             "description": "Simple Landing Page",
+
             "tech-stack": ["html", "css", "javascript"]
+        },
+        {
+            "id": "2",
+            "name": "AI Gallery",
+            "description": "Simple Landing Page",
+            "category": "Image Gallery",
+            "tech-stack": ["Next js", "Tailwind css"],
+            "function": ["Responsive Design", "Image Hover Effect", "Prompt", "Image Category", "Favorite Image"],
+            "web": "https://nextjs-ai-gallery.vercel.app/",
+            "github": "https://github.com/warathepj/nextjs-ai-gallery"
         }
     ]
 }
