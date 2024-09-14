@@ -2,10 +2,13 @@
     "projectDetail": [
         {
             "id": "1",
-            "name": "AI Gallery",
-            "description": "Simple Landing Page",
-
-            "tech-stack": ["html", "css", "javascript"]
+            "name": "QuikQR",
+            "description": "JavaScript QR Code Generator",
+            "category": "QR Code Generator",
+            "tech-stack": ["html", "css", "javascript"],
+            "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
+            "web": "https://warathepj.github.io/js-qr-code-generator/",
+            "github": "https://github.com/warathepj/js-qr-code-generator"
         },
         {
             "id": "2",
