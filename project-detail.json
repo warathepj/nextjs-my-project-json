@@ -5,7 +5,7 @@
             "name": "QuikQR",
             "description": "JavaScript QR Code Generator",
             "category": "QR Code Generator",
-            "tech-stack": ["html", "css", "javascript"],
+            "techStack": ["html", "css", "javascript"],
             "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
             "web": "https://warathepj.github.io/js-qr-code-generator/",
             "github": "https://github.com/warathepj/js-qr-code-generator"
@@ -13,9 +13,9 @@
         {
             "id": "2",
             "name": "AI Gallery",
-            "description": "Simple Landing Page",
+            "description": "Image Gallery",
             "category": "Image Gallery",
-            "tech-stack": ["Next js", "Tailwind css"],
+            "techStack": ["Next js", "Tailwind css"],
             "function": ["Responsive Design", "Image Hover Effect", "Prompt", "Image Category", "Favorite Image"],
             "web": "https://nextjs-ai-gallery.vercel.app/",
             "github": "https://github.com/warathepj/nextjs-ai-gallery"
