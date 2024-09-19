@@ -6,6 +6,7 @@
             "description": "JavaScript QR Code Generator",
             "category": "QR Code Generator",
             "techStack": ["html", "css", "javascript"],
+            "tag": ["html", "css", "javascript"],
             "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
             "web": "https://warathepj.github.io/js-qr-code-generator/",
             "github": "https://github.com/warathepj/js-qr-code-generator"
@@ -16,6 +17,7 @@
             "description": "Image Gallery",
             "category": "Image Gallery",
             "techStack": ["Next js", "Tailwind css"],
+            "tag": ["next", "tailwind"],
             "function": ["Responsive Design", "Image Hover Effect", "Prompt", "Image Category", "Favorite Image"],
             "web": "https://nextjs-ai-gallery.vercel.app/",
             "github": "https://github.com/warathepj/nextjs-ai-gallery"
