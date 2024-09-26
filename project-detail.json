@@ -19,6 +19,7 @@
             "techStack": ["Next js", "Tailwind css"],
             "tag": ["next", "tailwind"],
             "function": ["Responsive Design", "Image Hover Effect", "Prompt", "Image Category", "Favorite Image"],
+            "images": ["https://warathepj.github.io/my-project-images/ai-gallery/01.png", "https://warathepj.github.io/my-project-images/ai-gallery/02.png", "https://warathepj.github.io/my-project-images/ai-gallery/03.png", "https://warathepj.github.io/my-project-images/ai-gallery/04.png", "https://warathepj.github.io/my-project-images/ai-gallery/05.png", "https://warathepj.github.io/my-project-images/ai-gallery/06.png", "https://warathepj.github.io/my-project-images/ai-gallery/07.png"],
             "web": "https://nextjs-ai-gallery.vercel.app/",
             "github": "https://github.com/warathepj/nextjs-ai-gallery"
         }
