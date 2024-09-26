@@ -8,6 +8,7 @@
             "techStack": ["html", "css", "javascript"],
             "tag": ["html", "css", "javascript"],
             "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
+            "images": ["https://placehold.co/600x400"],
             "web": "https://warathepj.github.io/js-qr-code-generator/",
             "github": "https://github.com/warathepj/js-qr-code-generator"
         },
