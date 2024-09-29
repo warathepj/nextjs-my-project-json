@@ -1,16 +1,16 @@
 {
     "projectDetail": [
         {
-            "id": "1",
-            "name": "QuikQR",
-            "description": "JavaScript QR Code Generator",
-            "category": "QR Code Generator",
-            "techStack": ["html", "css", "javascript"],
-            "tag": ["html", "css", "javascript"],
-            "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
-            "images": ["https://placehold.co/600x400"],
-            "web": "https://warathepj.github.io/js-qr-code-generator/",
-            "github": "https://github.com/warathepj/js-qr-code-generator"
+            "id": "3",
+            "name": "Rust File Manager",
+            "description": "File Manager",
+            "category": "File Manager",
+            "techStack": ["Rust"],
+            "tag": ["rust"],
+            "function": ["Folder Explorer"],
+            "images": [""],
+            "web": "",
+            "github": "https://github.com/warathepj/rust-file-manager"
         },
         {
             "id": "2",
@@ -23,6 +23,19 @@
             "images": ["https://warathepj.github.io/my-project-images/ai-gallery/01.png", "https://warathepj.github.io/my-project-images/ai-gallery/02.png", "https://warathepj.github.io/my-project-images/ai-gallery/03.png", "https://warathepj.github.io/my-project-images/ai-gallery/04.png", "https://warathepj.github.io/my-project-images/ai-gallery/05.png", "https://warathepj.github.io/my-project-images/ai-gallery/06.png", "https://warathepj.github.io/my-project-images/ai-gallery/07.png"],
             "web": "https://nextjs-ai-gallery.vercel.app/",
             "github": "https://github.com/warathepj/nextjs-ai-gallery"
+        },
+        {
+            "id": "1",
+            "name": "QuikQR",
+            "description": "JavaScript QR Code Generator",
+            "category": "QR Code Generator",
+            "techStack": ["html", "css", "javascript"],
+            "tag": ["html", "css", "javascript"],
+            "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
+            "images": ["https://placehold.co/600x400"],
+            "web": "https://warathepj.github.io/js-qr-code-generator/",
+            "github": "https://github.com/warathepj/js-qr-code-generator"
         }
+       
     ]
 }
