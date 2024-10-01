@@ -9,7 +9,7 @@
             "tag": ["rust"],
             "function": ["Folder Explorer"],
             "images": [""],
-            "web": "#",
+            "web": "",
             "github": "https://github.com/warathepj/rust-file-manager"
         },
         {
