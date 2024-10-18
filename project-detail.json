@@ -30,9 +30,9 @@
             "description": "JavaScript QR Code Generator",
             "category": "QR Code Generator",
             "techStack": ["html", "css", "javascript"],
-            "tag": ["html", "css", "javascript"],
+            "tag": ["html", "css", "Javascript"],
             "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
-            "images": ["https://placehold.co/600x400"],
+            "images": ["https://warathepj.github.io/my-project-images/js-qr-code-generator/01.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/02.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/03.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/04.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/05.png"],
             "web": "https://warathepj.github.io/js-qr-code-generator/",
             "github": "https://github.com/warathepj/js-qr-code-generator"
         }
