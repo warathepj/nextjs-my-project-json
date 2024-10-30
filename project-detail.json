@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "5",
+            "name": "Emoji Convert Game",
+            "description": "Guess the word from the emoji game",
+            "category": "Game",
+            "techStack": ["Vue JS", "Sweet Alert", "Tailwind CSS"],
+            "tag": ["vuejs", "game", "tailwind", "sweetalert"],
+            "function": ["Randomly show emojis", "User can guess the word", "Show the score", "Show the hint"],
+            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/nodejs-telegram-noti"
+        },
+        {
             "id": "4",
             "name": "Node js Telegram Notification",
             "description": "Notification",
@@ -8,7 +20,7 @@
             "techStack": ["Node js", "node-telegram-bot-api"],
             "tag": ["nodejs", "notification", "telegram"],
             "function": ["test send notification message from node js to Telegram"],
-            "images": [""],
+            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
             "web": "",
             "github": "https://github.com/warathepj/nodejs-telegram-noti"
         },
@@ -19,7 +31,7 @@
             "category": "File Manager",
             "techStack": ["Rust"],
             "tag": ["rust"],
-            "function": ["Folder Explorer"],
+            "function": ["Create File", "Read Directory"],
             "images": [""],
             "web": "",
             "github": "https://github.com/warathepj/rust-file-manager"
@@ -38,7 +50,7 @@
         },
         {
             "id": "1",
-            "name": "QuikQR",
+            "name": "QuickQR",
             "description": "JavaScript QR Code Generator",
             "category": "QR Code Generator",
             "techStack": ["html", "css", "javascript"],
