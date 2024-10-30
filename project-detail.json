@@ -32,7 +32,7 @@
             "techStack": ["Rust"],
             "tag": ["rust"],
             "function": ["Create File", "Read Directory"],
-            "images": [""],
+            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
             "web": "",
             "github": "https://github.com/warathepj/rust-file-manager"
         },
