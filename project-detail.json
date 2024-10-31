@@ -8,7 +8,7 @@
             "techStack": ["Vue JS", "Sweet Alert", "Tailwind CSS"],
             "tag": ["vuejs", "game", "tailwind", "sweetalert"],
             "function": ["Randomly show emojis", "User can guess the word", "Show the score", "Show the hint"],
-            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
+            "images": ["https://warathepj.github.io/my-project-images/emoji-convert/01.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/02.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/03.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/04.jpg"],
             "web": "",
             "github": "https://github.com/warathepj/nodejs-telegram-noti"
         },
@@ -32,7 +32,7 @@
             "techStack": ["Rust"],
             "tag": ["rust"],
             "function": ["Create File", "Read Directory"],
-            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
+            "images": ["https://warathepj.github.io/my-project-images/rust-file-manager/01.jpg", "https://warathepj.github.io/my-project-images/rust-file-manager/02.jpg", "https://warathepj.github.io/my-project-images/rust-file-manager/03.jpg"],
             "web": "",
             "github": "https://github.com/warathepj/rust-file-manager"
         },
