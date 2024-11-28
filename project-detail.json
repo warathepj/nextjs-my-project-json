@@ -10,7 +10,8 @@
             "function": ["simple Login", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "Speak according to the given database"],
             "images": ["https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/03.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/04.jpg"],
             "web": "",
-            "github": ""
+            "github": "",
+            "sell": "sell"
         },
         {
             "id": "5",
