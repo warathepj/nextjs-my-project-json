@@ -11,7 +11,8 @@
             "images": ["https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/03.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/04.jpg"],
             "web": "",
             "github": "",
-            "sell": "sell"
+            "sell": "ขายซอสโค้ด 500฿ สนใจคลิกที่นี่",
+            "sellId": "1"
         },
         {
             "id": "5",
