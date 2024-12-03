@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "7",
+            "name": "html css js Todo List",
+            "description": "Todo List",
+            "category": "Todo List",
+            "techStack": ["html", "css", "javascript"],
+            "tag": ["html", "css", "Javascript", "todo list"],
+            "function": ["สร้าง Todo List", "ติ๊กถูก เมื่องานเสร็จแล้ว", "ลบงานที่เสร็จแล้ว"],
+            "images": ["https://warathepj.github.io/my-project-images/html-css-js-todolist/01.jpg", "https://warathepj.github.io/my-project-images/html-css-js-todolist/02.jpg"],
+            "web": "https://warathepj.github.io/html-js-todo-list/",
+            "github": "https://github.com/warathepj/html-js-todo-list"
+        },
+        {
             "id": "6",
             "name": "Nextjs Gemini Chatbot",
             "description": "AI-powered chatbot application",
