@@ -1,6 +1,22 @@
 {
     "projectDetail": [
         {
+            "id": "8",
+            "name": "ChatGEMINI",
+            "description": "AI Agent chatbot application",
+            "category": "Chatbot",
+            "techStack": ["PydanticAI", "Gemini API", "FastAPI", "Uvicorn", "logfire", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
+            "tag": ["nextjs", "gemini", "tailwind", "chatbot", "pydanticai", "fastapi", "uvicorn", "logfire", "shadcn"],
+            "function": ["Login with Google", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "System Prompt", "chat history"],
+            "images": ["https://warathepj.github.io/my-project-images/chatgemini/1.jpg", "https://warathepj.github.io/my-project-images/chatgemini/2.jpg", "https://warathepj.github.io/my-project-images/chatgemini/3.jpg"],
+            "web": "",
+            "github": "",
+            "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
+            "sellId": "2",
+            "version": "2412",
+            "price": "300"
+        },
+        {
             "id": "7",
             "name": "html css js Todo List",
             "description": "Todo List",
