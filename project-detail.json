@@ -1,12 +1,24 @@
 {
     "projectDetail": [
         {
+            "id": "9",
+            "name": "Next js Portfolio Site",
+            "description": "Portfolio Site",
+            "category": "Portfolio Site",
+            "techStack": ["Next js", "Tailwind css", "javascript"],
+            "tag": ["next", "tailwind", "javascript", "portfolio"],
+            "function": ["home page", "Portfolio page", "Testimonials page"],
+            "images": ["https://warathepj.github.io/my-project-images/nextjs-portfolio-site/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/03.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/nextjs-portfolio-site"
+        },
+        {
             "id": "8",
             "name": "ChatGEMINI",
             "description": "AI Agent chatbot application",
             "category": "Chatbot",
-            "techStack": ["PydanticAI", "Gemini API", "FastAPI", "Uvicorn", "logfire", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
-            "tag": ["nextjs", "gemini", "tailwind", "chatbot", "pydanticai", "fastapi", "uvicorn", "logfire", "shadcn"],
+            "techStack": ["PydanticAI", "Python", "Gemini API", "FastAPI", "Uvicorn", "logfire", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
+            "tag": ["next", "gemini", "tailwind", "chatbot", "pydanticai", "fastapi", "uvicorn", "logfire", "shadcn"],
             "function": ["Login with Google", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "System Prompt", "chat history"],
             "images": ["https://warathepj.github.io/my-project-images/chatgemini/1.jpg", "https://warathepj.github.io/my-project-images/chatgemini/2.jpg", "https://warathepj.github.io/my-project-images/chatgemini/3.jpg"],
             "web": "",
@@ -34,7 +46,7 @@
             "description": "AI-powered chatbot application",
             "category": "Chatbot",
             "techStack": ["Next js", "Gemini API", "Tailwind CSS"],
-            "tag": ["nextjs", "gemini", "tailwind", "chatbot"],
+            "tag": ["next", "gemini", "tailwind", "chatbot"],
             "function": ["simple Login", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "Speak according to the given database"],
             "images": ["https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/03.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/04.jpg"],
             "web": "",
