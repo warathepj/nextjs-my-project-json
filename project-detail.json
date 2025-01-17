@@ -8,7 +8,7 @@
             "techStack": ["Langchain", "Python", "Gemini API", "FastAPI", "Uvicorn", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
             "tag": ["next", "gemini", "tailwind", "ai agent", "langchain", "fastapi", "uvicorn", "shadcn"],
             "function": ["AI-powered conversational interface", "Multilingual", "Query database using natural language", "Database table"],
-            "images": ["https://warathepj.github.io/my-project-images/chat-with-database/1.jpg", "https://warathepj.github.io/my-project-images/chatgemini/2.jpg", "https://warathepj.github.io/my-project-images/chatgemini/3.jpg"],
+            "images": ["https://warathepj.github.io/my-project-images/chat-with-database/1.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/2.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/3.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/4.jpg"],
             "web": "",
             "github": "",
             "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
