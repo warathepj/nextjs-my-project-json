@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "11",
+            "name": "React js Task Manager",
+            "description": "Task Manager, To-do List",
+            "category": "Task Manager",
+            "techStack": ["React js", "Tailwind css", "typescript", "Shadcn ui"],
+            "tag": ["react", "tailwind", "typescript", "shadcn", "todo list", "task manager"],
+            "function": ["Create, read, update, and delete todos", "Mark todos as complete/incomplete", "Persistent storage using SQLite", "Modern UI with shadcn/ui components", "Real-time updates", "Error handling and validation", "TypeScript support", "Responsive design TODO"],
+            "images": ["https://warathepj.github.io/my-project-images/todo-list-sqlite/01.jpg"],
+            "web": "https://todo-mancer.vercel.app",
+            "github": "https://github.com/warathepj/todo-mancer.git"
+        },
+        {
             "id": "10",
             "name": "Chat With Database",
             "description": "Interact with a SQLite database using natural language queries",
