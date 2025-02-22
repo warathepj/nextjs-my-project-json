@@ -8,7 +8,7 @@
             "techStack": ["React js", "Tailwind css", "typescript", "Shadcn ui"],
             "tag": ["react", "tailwind", "typescript", "shadcn", "todo list", "task manager"],
             "function": ["Create, read, update, and delete todos", "Mark todos as complete/incomplete", "Persistent storage using SQLite", "Modern UI with shadcn/ui components", "Real-time updates", "Error handling and validation", "TypeScript support", "Responsive design TODO"],
-            "images": ["https://warathepj.github.io/my-project-images/todo-list-sqlite/01.jpg"],
+            "images": ["https://warathepj.github.io/my-project-images/todo-list-sqlite/1.jpg"],
             "web": "https://todo-mancer.vercel.app",
             "github": "https://github.com/warathepj/todo-mancer.git"
         },
