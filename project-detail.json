@@ -1,6 +1,35 @@
 {
     "projectDetail": [
         {
+            "id": "13",
+            "name": "Restaurant Agent",
+            "description": "A FastAPI-based chat assistant that provides information about restaurant menus and details using Google's Gemini AI model.",
+            "category": "AI Agent",
+            "techStack": ["Python", "Gemini API", "FastAPI", "Uvicorn", "MongoDB", "HTML", "CSS", "Javascript"],
+            "tag": ["python", "html", "gemini", "css", "ai agent", "javascript", "fastapi", "uvicorn", "mongodb"],
+            "function": ["Powered by Google's Gemini AI model", "RESTful API using FastAPI", "Bilingual support (English/Thai)", "Restaurant menu queries", "Show Database"],
+            "images": ["https://warathepj.github.io/my-project-images/restaurant-agent/1.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/2.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/3.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/4.jpg"],
+            "web": "",
+
+            "github": "",
+            "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
+            "sellId": "4",
+            "version": "2502",
+            "price": "100"
+        },
+        {
+            "id": "12",
+            "name": "Three.js Rotate Donut",
+            "description": "Shows an animation of a donut rotating around an axis.",
+            "category": "3D on web",
+            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
+            "tag": ["three js", "3d", "html", "javascript"],
+            "function": ["3D donut model with metallic material", "Interactive orbital controls for camera movement", "Responsive design that adapts to window resizing", "Ambient and point lighting for realistic rendering", "Automatic rotation animation", "Axis helper for orientation"],
+            "images": ["https://warathepj.github.io/my-project-images/threejs-rotate-donut/1.jpg"],
+            "web": "https://threejs-rotate-donut.vercel.app/",
+            "github": "https://github.com/warathepj/threejs-rotate-donut"
+        },
+        {
             "id": "11",
             "name": "React js Task Manager",
             "description": "Task Manager, To-do List",
