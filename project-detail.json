@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "16",
+            "name": "Node.js Coin Alert",
+            "description": "Notification",
+            "category": "Notification",
+            "techStack": ["Node js", "node-telegram-bot-api"],
+            "tag": ["nodejs", "notification", "telegram", "bitcoin", "cryptocurrency"],
+            "function": ["Real-time Bitcoin price monitoring", "Automatic price updates every 5 minutes", "Custom price threshold alerts", "Interactive commands", "Instant notifications"],
+            "images": ["https://warathepj.github.io/my-project-images/nodejs-coin-alert/1.jpg", "https://warathepj.github.io/my-project-images/nodejs-coin-alert/2.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/nodejs-coin-alert.git"
+        },
+        {
             "id": "15",
             "name": "Three.js Dust",
             "description": "A dynamic 3D visualization of particles using Three.js, featuring a system of bouncing spherical particles with random motion.",
