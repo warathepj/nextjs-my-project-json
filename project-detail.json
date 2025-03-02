@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "17",
+            "name": "3D Falling Objects Animation",
+            "description": "A interactive 3D animation created with Three.js that demonstrates physics-based falling objects with shaking effects.",
+            "category": "3D on web",
+            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
+            "tag": ["three js", "3d", "html", "javascript"],
+            "function": ["Interactive 3D scene with orbit controls for camera manipulation- Multiple geometric shapes (cube, pyramid, cylinder) with realistic materials", "Physics-based animation sequence: 1. Objects shake for 3 seconds 2. Brief pause (1 second) 3. Sequential falling animation with gravity effects", "Responsive design that adapts to window resizing"],
+            "images": ["https://warathepj.github.io/my-project-images/threejs-shake-n-fall/1.jpg"],
+            "web": "https://threejs-shake-n-fall.vercel.app/",
+            "github": "https://github.com/warathepj/threejs-shake-n-fall.git"
+        },
+        {
             "id": "16",
             "name": "Node.js Coin Alert",
             "description": "Notification",
