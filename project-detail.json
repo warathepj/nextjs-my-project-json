@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "18",
+            "name": "Golang Unit Converter",
+            "description": "A retro-styled unit converter web application with a Go backend and HTML/CSS/JavaScript frontend. Convert between different units of measurement with a nostalgic 80s computer aesthetic.",
+            "category": "Unit Converter",
+            "techStack": ["Golang", "HTML", "CSS"],
+            "tag": ["golang", "css", "html", "unit converter"],
+            "function": ["Real-time unit conversion", "Retro 80s user interface", "Support for multiple unit categories", "Mathematical precision with formula display", "Responsive design for mobile devices"],
+            "images": ["https://warathepj.github.io/my-project-images/go-unit-converter/1.jpg", "https://warathepj.github.io/my-project-images/go-unit-converter/2.jpg", "https://warathepj.github.io/my-project-images/go-unit-converter/3.jpg"],
+            "web": "https://go-unit-converter-demo.vercel.app/",
+            "github": "https://github.com/warathepj/go-unit-converter.git"
+        },
+        {
             "id": "17",
             "name": "3D Falling Objects Animation",
             "description": "A interactive 3D animation created with Three.js that demonstrates physics-based falling objects with shaking effects.",
