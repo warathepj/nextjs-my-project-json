@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "19",
+            "name": "3D Model Viewer with Three.js",
+            "description": "A web-based 3D model viewer that displays a bracket model using Three.js. The viewer includes orbit controls for model interaction and proper lighting setup.",
+            "category": "3D on web",
+            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
+            "tag": ["three js", "3d", "html", "javascript"],
+            "function": ["3D model loading using GLTFLoader- Orbit controls for rotating, panning, and zooming", "Responsive design that adapts to window resizing- Ambient and point lighting for better model visibility", "Axes helper for orientation- Automatic camera positioning based on model size"],
+            "images": ["https://warathepj.github.io/my-project-images/threejs-bracket/1.jpg"],
+            "web": "https://threejs-bracket-demo.vercel.app/",
+            "github": "https://github.com/warathepj/threejs-bracket.git"
+        },
+        {
             "id": "18",
             "name": "Golang Unit Converter",
             "description": "A retro-styled unit converter web application with a Go backend and HTML/CSS/JavaScript frontend. Convert between different units of measurement with a nostalgic 80s computer aesthetic.",
