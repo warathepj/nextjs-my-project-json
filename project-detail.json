@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "20",
+            "name": "Sorting Algorithm Visualizer",
+            "description": "An interactive web-based tool for visualizing common sorting algorithms in action. This project helps users understand how different sorting algorithms work through visual representation.",
+            "category": "algorithms",
+            "techStack": ["CSS", "HTML5", "JavaScript"],
+            "tag": ["sorting algorithms", "css", "html", "javascript"],
+            "function": ["Visualize multiple sorting algorithms", "Adjustable animation speed- Generate new random arrays", "Real-time status updates during sorting", "Responsive design"],
+            "images": ["https://warathepj.github.io/my-project-images/js-sorting-algorithms/1.jpg", "https://warathepj.github.io/my-project-images/js-sorting-algorithms/2.jpg"],
+            "web": "https://js-sorting-algorithms.vercel.app/",
+            "github": "https://github.com/warathepj/js-sorting-algorithms.git"
+        },
+        {
             "id": "19",
             "name": "3D Model Viewer with Three.js",
             "description": "A web-based 3D model viewer that displays a bracket model using Three.js. The viewer includes orbit controls for model interaction and proper lighting setup.",
