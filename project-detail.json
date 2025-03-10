@@ -1,6 +1,30 @@
 {
     "projectDetail": [
         {
+            "id": "23",
+            "name": "React Native Task Manager",
+            "description": "A modern, cross-platform task management application built with React Native and Expo. Features a clean, intuitive interface with support for dark/light themes and persistent storage.",
+            "category": "Mobile App Task Manager",
+            "techStack": ["Node js", "React Native"],
+            "tag": ["node js", "react native", "mobile app", "task manager"],
+            "function": ["Create and manage tasks", "Mark tasks as complete/incomplete", "Persistent storage", "Cross-platform (iOS, Android, Web)", "Modern UI with smooth animations"],
+            "images": ["https://warathepj.github.io/my-project-images/reactnative-task-manager/1.jpg", "https://warathepj.github.io/my-project-images/reactnative-task-manager/2.jpg", "https://warathepj.github.io/my-project-images/reactnative-task-manager/3.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/reactnative-task-manager.git"
+        },
+        {
+            "id": "22",
+            "name": "Minesweeper Game",
+            "description": "A classic Minesweeper implementation using HTML, CSS, and vanilla JavaScript. This web-based version features the traditional Minesweeper gameplay with a clean, modern interface.",
+            "category": "game",
+            "techStack": ["HTML5", "JavaScript", "CSS"],
+            "tag": ["minesweeper", "game", "css", "html", "javascript"],
+            "function": ["10x10 grid with 10 mines", "Left-click to reveal cells", "Right-click to place/remove flags", "Color-coded numbers indicating adjacent mines", "Mine counter", "New game button", "Win/lose detection"],
+            "images": ["https://warathepj.github.io/my-project-images/js-minesweeper/1.jpg", "https://warathepj.github.io/my-project-images/js-minesweeper/2.jpg", "https://warathepj.github.io/my-project-images/js-minesweeper/3.jpg"],
+            "web": "https://js-minesweeper-one.vercel.app/",
+            "github": "https://github.com/warathepj/js-minesweeper.git"
+        },
+        {
             "id": "21",
             "name": "Bugatti Tourbillon 3D Viewer",
             "description": "An interactive 3D viewer showcasing the Bugatti Tourbillon 2026 model using Three.js. The viewer features a rotating display platform, dynamic lighting, and orbital controls for user interaction.",
