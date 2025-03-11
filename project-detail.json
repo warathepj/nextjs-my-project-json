@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "24",
+            "name": "Mouse Tail Effect",
+            "description": "A interactive web visualization that creates a trailing effect following your mouse movements using Three.js. The effect generates small spheres that follow your mouse cursor's path, creating an ethereal trail in 3D space.",
+            "category": "3D on web",
+            "techStack": ["Three.js (r128)", "HTML5", "JavaScript", "WebGL", "GLTFLoader", "OrbitControls"],
+            "tag": ["three js", "3d", "html", "javascript"],
+            "function": ["Real-time 3D mouse trail visualization", "Orbit controls for camera manipulation", "Responsive design that adapts to window resizing", "Particle system with automatic cleanup", "Smooth lighting effects"],
+            "images": [],
+            "web": "https://threejs-mouse-tail.vercel.app/",
+            "github": "https://github.com/warathepj/threejs-mouse-tail.git"
+        },
+        {
             "id": "23",
             "name": "React Native Task Manager",
             "description": "A modern, cross-platform task management application built with React Native and Expo. Features a clean, intuitive interface with support for dark/light themes and persistent storage.",
