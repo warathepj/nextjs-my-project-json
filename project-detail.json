@@ -1,6 +1,30 @@
 {
     "projectDetail": [
         {
+            "id": "26",
+            "name": "React Three Fiber Product Card",
+            "description": "An interactive 3D product showcase built with React Three Fiber, featuring a Game Boy model with dynamic lighting and controls.",
+            "category": "3D on web",
+            "techStack": ["React", "React Three Fiber", "React Three Drei", "React Router DOM", "Three.js", "Vite"],
+            "tag": ["three js", "3d", "react", "react three fiber", "r3f", "vite", "3d product card"],
+            "function": ["3D Game Boy model display with interactive rotation", "Grid layout of multiple product cards", "Detailed product view page", "Orbit controls for model interaction", "Responsive design", "Dynamic lighting effects", "Retro-styled UI elements"],
+            "images": ["https://warathepj.github.io/my-project-images/r3f-product-card/1.jpg", "https://warathepj.github.io/my-project-images/r3f-product-card/2.jpg", "https://warathepj.github.io/my-project-images/r3f-product-card/3.jpg"],
+            "web": "https://r3f-product-card.vercel.app/",
+            "github": "https://github.com/warathepj/r3f-product-card.git"
+        },
+        {
+            "id": "25",
+            "name": "Dijkstra's Algorithm Visualization",
+            "description": "An interactive web-based visualization of Dijkstra's shortest path algorithm. This project helps users understand how Dijkstra's algorithm works by providing a visual representation of the pathfinding process.",
+            "category": "algorithms",
+            "techStack": ["CSS", "HTML5", "JavaScript"],
+            "tag": ["dijkstra algorithms", "css", "html", "javascript"],
+            "function": ["Interactive graph visualization", "Random graph generation", "Step-by-step animation of Dijkstra's algorithm", "Visual representation of:- Node distances- Visited nodes- Final shortest path- Edge weights", "Statistics display showing path length and visited nodes"],
+            "images": ["https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/1.jpg", "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/2.jpg", "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/3.jpg"],
+            "web": "https://js-dijkstra-algorithm.vercel.app/",
+            "github": "https://github.com/warathepj/js-dijkstra-algorithm.git"
+        },
+        {
             "id": "24",
             "name": "Mouse Tail Effect",
             "description": "A interactive web visualization that creates a trailing effect following your mouse movements using Three.js. The effect generates small spheres that follow your mouse cursor's path, creating an ethereal trail in 3D space.",
