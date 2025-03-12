@@ -1,6 +1,18 @@
 {
     "projectDetail": [
         {
+            "id": "27",
+            "name": "MQTT Publisher/Subscriber Example",
+            "description": "A simple Node.js application demonstrating MQTT messaging using the MQTT.js library with a publisher and subscriber.",
+            "category": "IoT",
+            "techStack": ["Node js", "MQTT.js"],
+            "tag": ["iot", "mqtt", "node js", "javascript"],
+            "function": ["Publisher that sends messages to a specific MQTT topic", "Subscriber that listens for messages on the specified topic", "Uses the public MQTT broker at test.mosquitto.org", "Simple error handling and connection status logging"],
+            "images": [],
+            "web": "",
+            "github": "https://github.com/warathepj/mqtt-nodejs-starter.git"
+        },
+        {
             "id": "26",
             "name": "React Three Fiber Product Card",
             "description": "An interactive 3D product showcase built with React Three Fiber, featuring a Game Boy model with dynamic lighting and controls.",
