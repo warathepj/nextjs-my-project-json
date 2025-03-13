@@ -1,6 +1,30 @@
 {
     "projectDetail": [
         {
+            "id": "29",
+            "name": "3D Collision Detection Simulator",
+            "description": "A web-based 3D collision detection demonstration using Three.js and custom AABB (Axis-Aligned Bounding Box) implementation.",
+            "category": "3D on web",
+            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
+            "tag": ["three js", "3d", "html", "javascript", "collision"],
+            "function": ["Real-time 3D visualization using Three.js", "Custom AABB (Axis-Aligned Bounding Box) implementation", "Visual collision feedback (color changes)", "Responsive design that adapts to window resizing", "Wireframe bounding box visualization"],
+            "images": [""],
+            "web": "https://threejs-aabb.vercel.app/",
+            "github": "https://github.com/warathepj/threejs-aabb.git "
+        },
+        {
+            "id": "28",
+            "name": "Task Manager Application",
+            "description": "A full-stack task management application built with React (frontend) and Go (backend). The application allows users to create, manage, and prioritize tasks with detailed attributes including deadlines, priorities, dependencies, and more.",
+            "category": "Task Manager",
+            "techStack": ["Golang", "Vite", "TypeScript", "React", "shadcn-ui", "Tailwind CSS", "MongoDB", "Gorilla Mux", "CORS support"],
+            "tag": ["golang", "vite", "task manager", "typescript", "react", "shadcn-ui", "tailwind css", "mongodb", "gorilla mux"],
+            "function": ["Create, Read, Update and Delete Tasks"],
+            "images": ["https://warathepj.github.io/my-project-images/go-task-manager/1.jpg", "https://warathepj.github.io/my-project-images/go-task-manager/2.jpg", "https://warathepj.github.io/my-project-images/go-task-manager/3.jpg"],
+            "web": "https://go-task-manager-demo.vercel.app/",
+            "github": "https://github.com/warathepj/go-task-manager-frontend.git"
+        },
+        {
             "id": "27",
             "name": "MQTT Publisher/Subscriber Example",
             "description": "A simple Node.js application demonstrating MQTT messaging using the MQTT.js library with a publisher and subscriber.",
