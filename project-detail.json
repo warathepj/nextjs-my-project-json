@@ -1,6 +1,30 @@
 {
     "projectDetail": [
         {
+            "id": "34",
+            "name": "SQLAlchemy Demo with FastAPI",
+            "description": "A demonstration project showcasing the power of SQLAlchemy with FastAPI, using SQLite as the database.",
+            "category": "Python Library",
+            "techStack": ["SQLAlchemy", "FastAPI", "HTML", "Jinja2", "Python", "SQLite"],
+            "tag": ["sqlalchemy", "fastapi", "html", "jinja2", "python", "sqlite"],
+            "function": ["SQLAlchemy ORM implementation", "FastAPI REST endpoints", "HTML templates with Jinja2", "User and Address models with one-to-many relationship", "Web interface for viewing data"],
+            "images": ["https://warathepj.github.io/my-project-images/python-sqlalchemy/1.jpg", "https://warathepj.github.io/my-project-images/python-sqlalchemy/2.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/python-sql-alchemy.git"
+        },
+        {
+            "id": "33",
+            "name": "Task Manager with Rust and Actix-web",
+            "description": "A simple task management web application built with Rust,demonstrating the use of enums, Actix-web framework,and Askama templating.",
+            "category": "Task Manager",
+            "techStack": ["Rust", "html", "actix-web", "askama", "serde"],
+            "tag": ["rust", "enum", "actix-web", "askama", "serde"],
+            "function": ["Display tasks with different categories (Work, Personal, Hobby)", "Visual distinction between task categories using CSS styling", "Server-side rendering with Askama templates", "Type-safe task categorization using Rust enums"],
+            "images": ["https://warathepj.github.io/my-project-images/rust-enum/1.jpg"],
+            "web": "",
+            "github": "https://github.com/warathepj/rust-enum.git"
+        },
+        {
             "id": "32",
             "name": "Calculator App",
             "description": "A modern calculator app built with Expo and React Native, featuring a clean design and support for basic arithmetic operations.",
