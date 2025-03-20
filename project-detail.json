@@ -1,14 +1,233 @@
 {
     "projectDetail": [
         {
+            "id": "39",
+            "name": "Telegram AI Secretary Bot",
+            "description": "A FastAPI-powered Telegram bot that acts as an AI secretary, helping you manage tasks, notes, and conversations using Google's Gemini AI model.",
+            "category": "AI Agent",
+            "techStack": [
+                "FastAPI",
+                "Python",
+                "MongoDB",
+                "Google Gemini",
+                "python-telegram-bot",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReDoc"
+            ],
+            "tag": [
+                "fastapi",
+                "python",
+                "mongodb",
+                "google gemini",
+                "python-telegram-bot",
+                "html",
+                "css",
+                "javascript",
+                "redoc",
+                "telegram bot",
+                "ai agent"
+            ],
+            "function": [
+                "Powered by Google's Gemini AI model for natural language understanding",
+                "Seamless Telegram integration",
+                "Task and note management",
+                "Smart time parsing for tasks",
+                "Bilingual support (English/Thai)",
+                "Context-aware conversations",
+                "Built-in safety settings",
+                "MongoDB for data persistence",
+                "Retro-style web dashboard"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/telegram-secretary-bot/1.jpg",
+                "https://warathepj.github.io/my-project-images/telegram-secretary-bot/2.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/telegram-secretary-bot.git"
+        },
+        {
+            "id": "38",
+            "name": "Telegram AI Secretary Bot",
+            "description": "A FastAPI-powered Telegram bot that acts as an AI secretary, helping you manage tasks, notes, and conversations using Google's Gemini AI model.",
+            "category": "AI Agent",
+            "techStack": [
+                "FastAPI",
+                "Python",
+                "MongoDB",
+                "Google Gemini",
+                "python-telegram-bot",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "ReDoc"
+            ],
+            "tag": [
+                "fastapi",
+                "python",
+                "mongodb",
+                "google gemini",
+                "python-telegram-bot",
+                "html",
+                "css",
+                "javascript",
+                "redoc",
+                "telegram bot",
+                "ai agent"
+            ],
+            "function": [
+                "Powered by Google's Gemini AI model for natural language understanding",
+                "Seamless Telegram integration",
+                "Task and note management",
+                "Smart time parsing for tasks",
+                "Bilingual support (English/Thai)",
+                "Context-aware conversations",
+                "Built-in safety settings",
+                "MongoDB for data persistence",
+                "Retro-style web dashboard"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/telegram-secretary-bot/1.jpg",
+                "https://warathepj.github.io/my-project-images/telegram-secretary-bot/2.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/telegram-secretary-bot.git"
+        },
+        {
+            "id": "37",
+            "name": "IoT Visualization Project",
+            "description": "A comprehensive IoT visualization system consisting of three main components: frontend interface, backend MQTT service, and device simulator.",
+            "category": "IoT Application",
+            "techStack": [
+                "Vite",
+                "TypeScript",
+                "React",
+                "Node js",
+                "MQTT",
+                "Express",
+                "WebSocket"
+            ],
+            "tag": [
+                "vite",
+                "iot",
+                "typescript",
+                "react",
+                "node js",
+                "mqtt",
+                "express",
+                "websocket"
+            ],
+            "function": [
+                "Real-time communication between components via MQTT",
+                "Elegant and responsive design across all components",
+                "Interactive UI elements with animations",
+                "Toast notifications for system feedback",
+                "Comprehensive error handling",
+                "Cross-component message broadcasting"
+            ],
+            "images": [],
+            "web": "",
+            "github": "https://github.com/warathepj/mqtt-react-starter-backend.git"
+        },
+        {
+            "id": "36",
+            "name": "React + Supabase Task Manager",
+            "description": "A modern task management application built with Vite, React, TypeScript, and Supabase. This project demonstrates real-time CRUD operations using Supabase as the backend.",
+            "category": "Task Manager",
+            "techStack": [
+                "Vite",
+                "TypeScript",
+                "React",
+                "Supabase"
+            ],
+            "tag": [
+                "vite",
+                "task manager",
+                "typescript",
+                "react",
+                "supabase"
+            ],
+            "function": [
+                "Built with [Vite](https://vitejs.dev/) for lightning-fast development",
+                "[React 19](https://react.dev/) with TypeScript support",
+                "[Supabase](https://supabase.com/) integration for backend operations",
+                "Full CRUD operations for tasks",
+                "Row Level Security (RLS) enabled",
+                "Clean and responsive UI",
+                "Real-time updates",
+                "Type-safe database operations"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/react-supabase-task-manager/1.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/react-supabase-task-manager.git"
+        },
+        {
+            "id": "35",
+            "name": "Shopping Cart App",
+            "description": "A modern shopping cart application built with Expo and React Native, featuring a clean UI.",
+            "category": "Mobile App Shopping Cart",
+            "techStack": [
+                "Node js",
+                "React Native",
+                "Expo"
+            ],
+            "tag": [
+                "node js",
+                "react native",
+                "mobile app",
+                "shopping cart",
+                "expo"
+            ],
+            "function": [
+                "Cross-platform (iOS, Android, Web) support",
+                "Product listing with images",
+                "Shopping cart functionality",
+                "File-based routing with Expo Router",
+                "Smooth animations and transitions",
+                "TypeScript for type safety"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/reactnative-shopping-cart/1.jpg",
+                "https://warathepj.github.io/my-project-images/reactnative-shopping-cart/2.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/reactnative-shopping-cart.git"
+        },
+        {
             "id": "34",
             "name": "SQLAlchemy Demo with FastAPI",
             "description": "A demonstration project showcasing the power of SQLAlchemy with FastAPI, using SQLite as the database.",
             "category": "Python Library",
-            "techStack": ["SQLAlchemy", "FastAPI", "HTML", "Jinja2", "Python", "SQLite"],
-            "tag": ["sqlalchemy", "fastapi", "html", "jinja2", "python", "sqlite"],
-            "function": ["SQLAlchemy ORM implementation", "FastAPI REST endpoints", "HTML templates with Jinja2", "User and Address models with one-to-many relationship", "Web interface for viewing data"],
-            "images": ["https://warathepj.github.io/my-project-images/python-sqlalchemy/1.jpg", "https://warathepj.github.io/my-project-images/python-sqlalchemy/2.jpg"],
+            "techStack": [
+                "SQLAlchemy",
+                "FastAPI",
+                "HTML",
+                "Jinja2",
+                "Python",
+                "SQLite"
+            ],
+            "tag": [
+                "sqlalchemy",
+                "fastapi",
+                "html",
+                "jinja2",
+                "python",
+                "sqlite"
+            ],
+            "function": [
+                "SQLAlchemy ORM implementation",
+                "FastAPI REST endpoints",
+                "HTML templates with Jinja2",
+                "User and Address models with one-to-many relationship",
+                "Web interface for viewing data"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/python-sqlalchemy/1.jpg",
+                "https://warathepj.github.io/my-project-images/python-sqlalchemy/2.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/python-sql-alchemy.git"
         },
@@ -17,10 +236,29 @@
             "name": "Task Manager with Rust and Actix-web",
             "description": "A simple task management web application built with Rust,demonstrating the use of enums, Actix-web framework,and Askama templating.",
             "category": "Task Manager",
-            "techStack": ["Rust", "html", "actix-web", "askama", "serde"],
-            "tag": ["rust", "enum", "actix-web", "askama", "serde"],
-            "function": ["Display tasks with different categories (Work, Personal, Hobby)", "Visual distinction between task categories using CSS styling", "Server-side rendering with Askama templates", "Type-safe task categorization using Rust enums"],
-            "images": ["https://warathepj.github.io/my-project-images/rust-enum/1.jpg"],
+            "techStack": [
+                "Rust",
+                "html",
+                "actix-web",
+                "askama",
+                "serde"
+            ],
+            "tag": [
+                "rust",
+                "enum",
+                "actix-web",
+                "askama",
+                "serde"
+            ],
+            "function": [
+                "Display tasks with different categories (Work, Personal, Hobby)",
+                "Visual distinction between task categories using CSS styling",
+                "Server-side rendering with Askama templates",
+                "Type-safe task categorization using Rust enums"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/rust-enum/1.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/rust-enum.git"
         },
@@ -29,10 +267,27 @@
             "name": "Calculator App",
             "description": "A modern calculator app built with Expo and React Native, featuring a clean design and support for basic arithmetic operations.",
             "category": "Mobile App Calculator",
-            "techStack": ["Node js", "React Native", "Expo"],
-            "tag": ["node js", "react native", "mobile app", "calculator", "expo"],
-            "function": ["Basic arithmetic operations (add, subtract, multiply, divide)", "Cross-platform (iOS, Android, Web)"],
-            "images": ["https://warathepj.github.io/my-project-images/reactnative-calculator/1.jpg", "https://warathepj.github.io/my-project-images/reactnative-calculator/2.jpg", "https://warathepj.github.io/my-project-images/reactnative-calculator/3.jpg"],
+            "techStack": [
+                "Node js",
+                "React Native",
+                "Expo"
+            ],
+            "tag": [
+                "node js",
+                "react native",
+                "mobile app",
+                "calculator",
+                "expo"
+            ],
+            "function": [
+                "Basic arithmetic operations (add, subtract, multiply, divide)",
+                "Cross-platform (iOS, Android, Web)"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/reactnative-calculator/1.jpg",
+                "https://warathepj.github.io/my-project-images/reactnative-calculator/2.jpg",
+                "https://warathepj.github.io/my-project-images/reactnative-calculator/3.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/reactnative-calculator.git"
         },
@@ -41,10 +296,36 @@
             "name": "Memory Game",
             "description": "A beautifully crafted memory card game built with modern web technologies. Test your memory by matching pairs of cards in this engaging and visually appealing game.",
             "category": "Game",
-            "techStack": ["Vite", "TypeScript", "React", "shadcn-ui", "Tailwind CSS"],
-            "tag": ["vite", "memory game", "typescript", "react", "shadcn-ui", "tailwind css", "game"],
-            "function": ["4x4 grid of memory cards", "Emoji-based card matching", "Smooth card flip animations", "Score tracking", "Reset game functionality", "Responsive design", "Modern UI with shadcn/ui components"],
-            "images": ["https://warathepj.github.io/my-project-images/memory-game/1.jpg", "https://warathepj.github.io/my-project-images/memory-game/2.jpg", "https://warathepj.github.io/my-project-images/memory-game/3.jpg"],
+            "techStack": [
+                "Vite",
+                "TypeScript",
+                "React",
+                "shadcn-ui",
+                "Tailwind CSS"
+            ],
+            "tag": [
+                "vite",
+                "memory game",
+                "typescript",
+                "react",
+                "shadcn-ui",
+                "tailwind css",
+                "game"
+            ],
+            "function": [
+                "4x4 grid of memory cards",
+                "Emoji-based card matching",
+                "Smooth card flip animations",
+                "Score tracking",
+                "Reset game functionality",
+                "Responsive design",
+                "Modern UI with shadcn/ui components"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/memory-game/1.jpg",
+                "https://warathepj.github.io/my-project-images/memory-game/2.jpg",
+                "https://warathepj.github.io/my-project-images/memory-game/3.jpg"
+            ],
             "web": "https://react-memory-game-blue.vercel.app/",
             "github": "https://github.com/warathepj/react-memory-game.git"
         },
@@ -53,10 +334,35 @@
             "name": "Secure Password Generator",
             "description": "A modern, secure password generator built with React, TypeScript, and Tailwind CSS. This application generates strong 8-character passwords that meet common security requirements.",
             "category": "Password Generator",
-            "techStack": ["Lucide Icon", "Vite", "TypeScript", "React", "shadcn-ui", "Tailwind CSS"],
-            "tag": ["lucide icon", "vite", "password generator", "typescript", "react", "shadcn-ui", "tailwind css"],
-            "function": ["Generates 8-character secure passwords", "Ensures each password contains: At least one uppercase letter, At least one lowercase letter, At least one number, At least one special character (!@#$%^&*)", "One-click password copying", "Modern, responsive UI with Tailwind CSS", "Toast notifications for user feedback"],
-            "images": ["https://warathepj.github.io/my-project-images/react-password-generator/1.jpg", "https://warathepj.github.io/my-project-images/react-password-generator/2.jpg", "https://warathepj.github.io/my-project-images/react-password-generator/3.jpg"],
+            "techStack": [
+                "Lucide Icon",
+                "Vite",
+                "TypeScript",
+                "React",
+                "shadcn-ui",
+                "Tailwind CSS"
+            ],
+            "tag": [
+                "lucide icon",
+                "vite",
+                "password generator",
+                "typescript",
+                "react",
+                "shadcn-ui",
+                "tailwind css"
+            ],
+            "function": [
+                "Generates 8-character secure passwords",
+                "Ensures each password contains: At least one uppercase letter, At least one lowercase letter, At least one number, At least one special character (!@#$%^&*)",
+                "One-click password copying",
+                "Modern, responsive UI with Tailwind CSS",
+                "Toast notifications for user feedback"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/react-password-generator/1.jpg",
+                "https://warathepj.github.io/my-project-images/react-password-generator/2.jpg",
+                "https://warathepj.github.io/my-project-images/react-password-generator/3.jpg"
+            ],
             "web": "https://password-generator-gamma-three-25.vercel.app/",
             "github": "https://github.com/warathepj/password-generator.git"
         },
@@ -65,10 +371,28 @@
             "name": "3D Collision Detection Simulator",
             "description": "A web-based 3D collision detection demonstration using Three.js and custom AABB (Axis-Aligned Bounding Box) implementation.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
-            "tag": ["three js", "3d", "html", "javascript", "collision"],
-            "function": ["Real-time 3D visualization using Three.js", "Custom AABB (Axis-Aligned Bounding Box) implementation", "Visual collision feedback (color changes)", "Responsive design that adapts to window resizing", "Wireframe bounding box visualization"],
-            "images": [""],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript",
+                "collision"
+            ],
+            "function": [
+                "Real-time 3D visualization using Three.js",
+                "Custom AABB (Axis-Aligned Bounding Box) implementation",
+                "Visual collision feedback (color changes)",
+                "Responsive design that adapts to window resizing",
+                "Wireframe bounding box visualization"
+            ],
+            "images": [
+                ""
+            ],
             "web": "https://threejs-aabb.vercel.app/",
             "github": "https://github.com/warathepj/threejs-aabb.git "
         },
@@ -77,10 +401,36 @@
             "name": "Task Manager Application",
             "description": "A full-stack task management application built with React (frontend) and Go (backend). The application allows users to create, manage, and prioritize tasks with detailed attributes including deadlines, priorities, dependencies, and more.",
             "category": "Task Manager",
-            "techStack": ["Golang", "Vite", "TypeScript", "React", "shadcn-ui", "Tailwind CSS", "MongoDB", "Gorilla Mux", "CORS support"],
-            "tag": ["golang", "vite", "task manager", "typescript", "react", "shadcn-ui", "tailwind css", "mongodb", "gorilla mux"],
-            "function": ["Create, Read, Update and Delete Tasks"],
-            "images": ["https://warathepj.github.io/my-project-images/go-task-manager/1.jpg", "https://warathepj.github.io/my-project-images/go-task-manager/2.jpg", "https://warathepj.github.io/my-project-images/go-task-manager/3.jpg"],
+            "techStack": [
+                "Golang",
+                "Vite",
+                "TypeScript",
+                "React",
+                "shadcn-ui",
+                "Tailwind CSS",
+                "MongoDB",
+                "Gorilla Mux",
+                "CORS support"
+            ],
+            "tag": [
+                "golang",
+                "vite",
+                "task manager",
+                "typescript",
+                "react",
+                "shadcn-ui",
+                "tailwind css",
+                "mongodb",
+                "gorilla mux"
+            ],
+            "function": [
+                "Create, Read, Update and Delete Tasks"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/go-task-manager/1.jpg",
+                "https://warathepj.github.io/my-project-images/go-task-manager/2.jpg",
+                "https://warathepj.github.io/my-project-images/go-task-manager/3.jpg"
+            ],
             "web": "https://go-task-manager-demo.vercel.app/",
             "github": "https://github.com/warathepj/go-task-manager-frontend.git"
         },
@@ -89,9 +439,22 @@
             "name": "MQTT Publisher/Subscriber Example",
             "description": "A simple Node.js application demonstrating MQTT messaging using the MQTT.js library with a publisher and subscriber.",
             "category": "IoT",
-            "techStack": ["Node js", "MQTT.js"],
-            "tag": ["iot", "mqtt", "node js", "javascript"],
-            "function": ["Publisher that sends messages to a specific MQTT topic", "Subscriber that listens for messages on the specified topic", "Uses the public MQTT broker at test.mosquitto.org", "Simple error handling and connection status logging"],
+            "techStack": [
+                "Node js",
+                "MQTT.js"
+            ],
+            "tag": [
+                "iot",
+                "mqtt",
+                "node js",
+                "javascript"
+            ],
+            "function": [
+                "Publisher that sends messages to a specific MQTT topic",
+                "Subscriber that listens for messages on the specified topic",
+                "Uses the public MQTT broker at test.mosquitto.org",
+                "Simple error handling and connection status logging"
+            ],
             "images": [],
             "web": "",
             "github": "https://github.com/warathepj/mqtt-nodejs-starter.git"
@@ -101,10 +464,37 @@
             "name": "React Three Fiber Product Card",
             "description": "An interactive 3D product showcase built with React Three Fiber, featuring a Game Boy model with dynamic lighting and controls.",
             "category": "3D on web",
-            "techStack": ["React", "React Three Fiber", "React Three Drei", "React Router DOM", "Three.js", "Vite"],
-            "tag": ["three js", "3d", "react", "react three fiber", "r3f", "vite", "3d product card"],
-            "function": ["3D Game Boy model display with interactive rotation", "Grid layout of multiple product cards", "Detailed product view page", "Orbit controls for model interaction", "Responsive design", "Dynamic lighting effects", "Retro-styled UI elements"],
-            "images": ["https://warathepj.github.io/my-project-images/r3f-product-card/1.jpg", "https://warathepj.github.io/my-project-images/r3f-product-card/2.jpg", "https://warathepj.github.io/my-project-images/r3f-product-card/3.jpg"],
+            "techStack": [
+                "React",
+                "React Three Fiber",
+                "React Three Drei",
+                "React Router DOM",
+                "Three.js",
+                "Vite"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "react",
+                "react three fiber",
+                "r3f",
+                "vite",
+                "3d product card"
+            ],
+            "function": [
+                "3D Game Boy model display with interactive rotation",
+                "Grid layout of multiple product cards",
+                "Detailed product view page",
+                "Orbit controls for model interaction",
+                "Responsive design",
+                "Dynamic lighting effects",
+                "Retro-styled UI elements"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/r3f-product-card/1.jpg",
+                "https://warathepj.github.io/my-project-images/r3f-product-card/2.jpg",
+                "https://warathepj.github.io/my-project-images/r3f-product-card/3.jpg"
+            ],
             "web": "https://r3f-product-card.vercel.app/",
             "github": "https://github.com/warathepj/r3f-product-card.git"
         },
@@ -113,10 +503,29 @@
             "name": "Dijkstra's Algorithm Visualization",
             "description": "An interactive web-based visualization of Dijkstra's shortest path algorithm. This project helps users understand how Dijkstra's algorithm works by providing a visual representation of the pathfinding process.",
             "category": "algorithms",
-            "techStack": ["CSS", "HTML5", "JavaScript"],
-            "tag": ["dijkstra algorithms", "css", "html", "javascript"],
-            "function": ["Interactive graph visualization", "Random graph generation", "Step-by-step animation of Dijkstra's algorithm", "Visual representation of:- Node distances- Visited nodes- Final shortest path- Edge weights", "Statistics display showing path length and visited nodes"],
-            "images": ["https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/1.jpg", "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/2.jpg", "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/3.jpg"],
+            "techStack": [
+                "CSS",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "dijkstra algorithms",
+                "css",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Interactive graph visualization",
+                "Random graph generation",
+                "Step-by-step animation of Dijkstra's algorithm",
+                "Visual representation of:- Node distances- Visited nodes- Final shortest path- Edge weights",
+                "Statistics display showing path length and visited nodes"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/1.jpg",
+                "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/2.jpg",
+                "https://warathepj.github.io/my-project-images/js-dijkstra-algorithm/3.jpg"
+            ],
             "web": "https://js-dijkstra-algorithm.vercel.app/",
             "github": "https://github.com/warathepj/js-dijkstra-algorithm.git"
         },
@@ -125,9 +534,27 @@
             "name": "Mouse Tail Effect",
             "description": "A interactive web visualization that creates a trailing effect following your mouse movements using Three.js. The effect generates small spheres that follow your mouse cursor's path, creating an ethereal trail in 3D space.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript", "WebGL", "GLTFLoader", "OrbitControls"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["Real-time 3D mouse trail visualization", "Orbit controls for camera manipulation", "Responsive design that adapts to window resizing", "Particle system with automatic cleanup", "Smooth lighting effects"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript",
+                "WebGL",
+                "GLTFLoader",
+                "OrbitControls"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Real-time 3D mouse trail visualization",
+                "Orbit controls for camera manipulation",
+                "Responsive design that adapts to window resizing",
+                "Particle system with automatic cleanup",
+                "Smooth lighting effects"
+            ],
             "images": [],
             "web": "https://threejs-mouse-tail.vercel.app/",
             "github": "https://github.com/warathepj/threejs-mouse-tail.git"
@@ -137,10 +564,28 @@
             "name": "React Native Task Manager",
             "description": "A modern, cross-platform task management application built with React Native and Expo. Features a clean, intuitive interface with support for dark/light themes and persistent storage.",
             "category": "Mobile App Task Manager",
-            "techStack": ["Node js", "React Native"],
-            "tag": ["node js", "react native", "mobile app", "task manager"],
-            "function": ["Create and manage tasks", "Mark tasks as complete/incomplete", "Persistent storage", "Cross-platform (iOS, Android, Web)", "Modern UI with smooth animations"],
-            "images": ["https://warathepj.github.io/my-project-images/reactnative-task-manager/1.jpg", "https://warathepj.github.io/my-project-images/reactnative-task-manager/2.jpg", "https://warathepj.github.io/my-project-images/reactnative-task-manager/3.jpg"],
+            "techStack": [
+                "Node js",
+                "React Native"
+            ],
+            "tag": [
+                "node js",
+                "react native",
+                "mobile app",
+                "task manager"
+            ],
+            "function": [
+                "Create and manage tasks",
+                "Mark tasks as complete/incomplete",
+                "Persistent storage",
+                "Cross-platform (iOS, Android, Web)",
+                "Modern UI with smooth animations"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/reactnative-task-manager/1.jpg",
+                "https://warathepj.github.io/my-project-images/reactnative-task-manager/2.jpg",
+                "https://warathepj.github.io/my-project-images/reactnative-task-manager/3.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/reactnative-task-manager.git"
         },
@@ -149,10 +594,32 @@
             "name": "Minesweeper Game",
             "description": "A classic Minesweeper implementation using HTML, CSS, and vanilla JavaScript. This web-based version features the traditional Minesweeper gameplay with a clean, modern interface.",
             "category": "game",
-            "techStack": ["HTML5", "JavaScript", "CSS"],
-            "tag": ["minesweeper", "game", "css", "html", "javascript"],
-            "function": ["10x10 grid with 10 mines", "Left-click to reveal cells", "Right-click to place/remove flags", "Color-coded numbers indicating adjacent mines", "Mine counter", "New game button", "Win/lose detection"],
-            "images": ["https://warathepj.github.io/my-project-images/js-minesweeper/1.jpg", "https://warathepj.github.io/my-project-images/js-minesweeper/2.jpg", "https://warathepj.github.io/my-project-images/js-minesweeper/3.jpg"],
+            "techStack": [
+                "HTML5",
+                "JavaScript",
+                "CSS"
+            ],
+            "tag": [
+                "minesweeper",
+                "game",
+                "css",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "10x10 grid with 10 mines",
+                "Left-click to reveal cells",
+                "Right-click to place/remove flags",
+                "Color-coded numbers indicating adjacent mines",
+                "Mine counter",
+                "New game button",
+                "Win/lose detection"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/js-minesweeper/1.jpg",
+                "https://warathepj.github.io/my-project-images/js-minesweeper/2.jpg",
+                "https://warathepj.github.io/my-project-images/js-minesweeper/3.jpg"
+            ],
             "web": "https://js-minesweeper-one.vercel.app/",
             "github": "https://github.com/warathepj/js-minesweeper.git"
         },
@@ -161,10 +628,34 @@
             "name": "Bugatti Tourbillon 3D Viewer",
             "description": "An interactive 3D viewer showcasing the Bugatti Tourbillon 2026 model using Three.js. The viewer features a rotating display platform, dynamic lighting, and orbital controls for user interaction.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript", "WebGL", "GLTFLoader", "OrbitControls"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["Interactive 3D model viewing with orbit controls", "Automatic model rotation", "Responsive design", "Physical-based rendering with metallic materials", "Dynamic lighting with spotlights", "Circular display platform", "Anti-aliasing for smooth rendering"],
-            "images": ["https://warathepj.github.io/my-project-images/bugatti/1.jpg", "https://warathepj.github.io/my-project-images/bugatti/2.jpg", "https://warathepj.github.io/my-project-images/bugatti/3.jpg"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript",
+                "WebGL",
+                "GLTFLoader",
+                "OrbitControls"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Interactive 3D model viewing with orbit controls",
+                "Automatic model rotation",
+                "Responsive design",
+                "Physical-based rendering with metallic materials",
+                "Dynamic lighting with spotlights",
+                "Circular display platform",
+                "Anti-aliasing for smooth rendering"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/bugatti/1.jpg",
+                "https://warathepj.github.io/my-project-images/bugatti/2.jpg",
+                "https://warathepj.github.io/my-project-images/bugatti/3.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/threejs-bugatti.git"
         },
@@ -173,10 +664,27 @@
             "name": "Sorting Algorithm Visualizer",
             "description": "An interactive web-based tool for visualizing common sorting algorithms in action. This project helps users understand how different sorting algorithms work through visual representation.",
             "category": "algorithms",
-            "techStack": ["CSS", "HTML5", "JavaScript"],
-            "tag": ["sorting algorithms", "css", "html", "javascript"],
-            "function": ["Visualize multiple sorting algorithms", "Adjustable animation speed- Generate new random arrays", "Real-time status updates during sorting", "Responsive design"],
-            "images": ["https://warathepj.github.io/my-project-images/js-sorting-algorithms/1.jpg", "https://warathepj.github.io/my-project-images/js-sorting-algorithms/2.jpg"],
+            "techStack": [
+                "CSS",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "sorting algorithms",
+                "css",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Visualize multiple sorting algorithms",
+                "Adjustable animation speed- Generate new random arrays",
+                "Real-time status updates during sorting",
+                "Responsive design"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/js-sorting-algorithms/1.jpg",
+                "https://warathepj.github.io/my-project-images/js-sorting-algorithms/2.jpg"
+            ],
             "web": "https://js-sorting-algorithms.vercel.app/",
             "github": "https://github.com/warathepj/js-sorting-algorithms.git"
         },
@@ -185,10 +693,25 @@
             "name": "3D Model Viewer with Three.js",
             "description": "A web-based 3D model viewer that displays a bracket model using Three.js. The viewer includes orbit controls for model interaction and proper lighting setup.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["3D model loading using GLTFLoader- Orbit controls for rotating, panning, and zooming", "Responsive design that adapts to window resizing- Ambient and point lighting for better model visibility", "Axes helper for orientation- Automatic camera positioning based on model size"],
-            "images": ["https://warathepj.github.io/my-project-images/threejs-bracket/1.jpg"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "3D model loading using GLTFLoader- Orbit controls for rotating, panning, and zooming",
+                "Responsive design that adapts to window resizing- Ambient and point lighting for better model visibility",
+                "Axes helper for orientation- Automatic camera positioning based on model size"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/threejs-bracket/1.jpg"
+            ],
             "web": "https://threejs-bracket-demo.vercel.app/",
             "github": "https://github.com/warathepj/threejs-bracket.git"
         },
@@ -197,10 +720,29 @@
             "name": "Golang Unit Converter",
             "description": "A retro-styled unit converter web application with a Go backend and HTML/CSS/JavaScript frontend. Convert between different units of measurement with a nostalgic 80s computer aesthetic.",
             "category": "Unit Converter",
-            "techStack": ["Golang", "HTML", "CSS"],
-            "tag": ["golang", "css", "html", "unit converter"],
-            "function": ["Real-time unit conversion", "Retro 80s user interface", "Support for multiple unit categories", "Mathematical precision with formula display", "Responsive design for mobile devices"],
-            "images": ["https://warathepj.github.io/my-project-images/go-unit-converter/1.jpg", "https://warathepj.github.io/my-project-images/go-unit-converter/2.jpg", "https://warathepj.github.io/my-project-images/go-unit-converter/3.jpg"],
+            "techStack": [
+                "Golang",
+                "HTML",
+                "CSS"
+            ],
+            "tag": [
+                "golang",
+                "css",
+                "html",
+                "unit converter"
+            ],
+            "function": [
+                "Real-time unit conversion",
+                "Retro 80s user interface",
+                "Support for multiple unit categories",
+                "Mathematical precision with formula display",
+                "Responsive design for mobile devices"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/go-unit-converter/1.jpg",
+                "https://warathepj.github.io/my-project-images/go-unit-converter/2.jpg",
+                "https://warathepj.github.io/my-project-images/go-unit-converter/3.jpg"
+            ],
             "web": "https://go-unit-converter-demo.vercel.app/",
             "github": "https://github.com/warathepj/go-unit-converter.git"
         },
@@ -209,10 +751,25 @@
             "name": "3D Falling Objects Animation",
             "description": "A interactive 3D animation created with Three.js that demonstrates physics-based falling objects with shaking effects.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["Interactive 3D scene with orbit controls for camera manipulation- Multiple geometric shapes (cube, pyramid, cylinder) with realistic materials", "Physics-based animation sequence: 1. Objects shake for 3 seconds 2. Brief pause (1 second) 3. Sequential falling animation with gravity effects", "Responsive design that adapts to window resizing"],
-            "images": ["https://warathepj.github.io/my-project-images/threejs-shake-n-fall/1.jpg"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Interactive 3D scene with orbit controls for camera manipulation- Multiple geometric shapes (cube, pyramid, cylinder) with realistic materials",
+                "Physics-based animation sequence: 1. Objects shake for 3 seconds 2. Brief pause (1 second) 3. Sequential falling animation with gravity effects",
+                "Responsive design that adapts to window resizing"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/threejs-shake-n-fall/1.jpg"
+            ],
             "web": "https://threejs-shake-n-fall.vercel.app/",
             "github": "https://github.com/warathepj/threejs-shake-n-fall.git"
         },
@@ -221,10 +778,28 @@
             "name": "Node.js Coin Alert",
             "description": "Notification",
             "category": "Notification",
-            "techStack": ["Node js", "node-telegram-bot-api"],
-            "tag": ["nodejs", "notification", "telegram", "bitcoin", "cryptocurrency"],
-            "function": ["Real-time Bitcoin price monitoring", "Automatic price updates every 5 minutes", "Custom price threshold alerts", "Interactive commands", "Instant notifications"],
-            "images": ["https://warathepj.github.io/my-project-images/nodejs-coin-alert/1.jpg", "https://warathepj.github.io/my-project-images/nodejs-coin-alert/2.jpg"],
+            "techStack": [
+                "Node js",
+                "node-telegram-bot-api"
+            ],
+            "tag": [
+                "nodejs",
+                "notification",
+                "telegram",
+                "bitcoin",
+                "cryptocurrency"
+            ],
+            "function": [
+                "Real-time Bitcoin price monitoring",
+                "Automatic price updates every 5 minutes",
+                "Custom price threshold alerts",
+                "Interactive commands",
+                "Instant notifications"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/nodejs-coin-alert/1.jpg",
+                "https://warathepj.github.io/my-project-images/nodejs-coin-alert/2.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/nodejs-coin-alert.git"
         },
@@ -233,10 +808,28 @@
             "name": "Three.js Dust",
             "description": "A dynamic 3D visualization of particles using Three.js, featuring a system of bouncing spherical particles with random motion.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["500 spherical particles with random motion", "Particle collision boundaries", "Orbital camera controls", "Responsive design", "Axis helper for orientation", "Dynamic lighting (ambient and point light)"],
-            "images": ["https://warathepj.github.io/my-project-images/threejs-dust/1.jpg"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "500 spherical particles with random motion",
+                "Particle collision boundaries",
+                "Orbital camera controls",
+                "Responsive design",
+                "Axis helper for orientation",
+                "Dynamic lighting (ambient and point light)"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/threejs-dust/1.jpg"
+            ],
             "web": "https://threejs-dust.vercel.app/",
             "github": "https://github.com/warathepj/threejs-dust"
         },
@@ -245,12 +838,32 @@
             "name": "React Shopping Cart",
             "description": "A modern e-commerce shopping cart application built with React, featuring user authentication and a seamless shopping experience.",
             "category": "E-commerce",
-            "techStack": ["React.js", "TypeScript", "React Router", "Context API", "Tailwind CSS", "Shadcn UI", "Vite"],
-
-            
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["3D donut model with metallic material", "Interactive orbital controls for camera movement", "Responsive design that adapts to window resizing", "Ambient and point lighting for realistic rendering", "Automatic rotation animation", "Axis helper for orientation"],
-            "images": ["https://warathepj.github.io/my-project-images/threejs-rotate-donut/1.jpg"],
+            "techStack": [
+                "React.js",
+                "TypeScript",
+                "React Router",
+                "Context API",
+                "Tailwind CSS",
+                "Shadcn UI",
+                "Vite"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "3D donut model with metallic material",
+                "Interactive orbital controls for camera movement",
+                "Responsive design that adapts to window resizing",
+                "Ambient and point lighting for realistic rendering",
+                "Automatic rotation animation",
+                "Axis helper for orientation"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/threejs-rotate-donut/1.jpg"
+            ],
             "web": "https://threejs-rotate-donut.vercel.app/",
             "github": "https://github.com/warathepj/simple-login-gate.git"
         },
@@ -259,12 +872,41 @@
             "name": "Restaurant Agent",
             "description": "A FastAPI-based chat assistant that provides information about restaurant menus and details using Google's Gemini AI model.",
             "category": "AI Agent",
-            "techStack": ["Python", "Gemini API", "FastAPI", "Uvicorn", "MongoDB", "HTML", "CSS", "Javascript"],
-            "tag": ["python", "html", "gemini", "css", "ai agent", "javascript", "fastapi", "uvicorn", "mongodb"],
-            "function": ["Powered by Google's Gemini AI model", "RESTful API using FastAPI", "Bilingual support (English/Thai)", "Restaurant menu queries", "Show Database"],
-            "images": ["https://warathepj.github.io/my-project-images/restaurant-agent/1.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/2.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/3.jpg", "https://warathepj.github.io/my-project-images/restaurant-agent/4.jpg"],
+            "techStack": [
+                "Python",
+                "Gemini API",
+                "FastAPI",
+                "Uvicorn",
+                "MongoDB",
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "tag": [
+                "python",
+                "html",
+                "gemini",
+                "css",
+                "ai agent",
+                "javascript",
+                "fastapi",
+                "uvicorn",
+                "mongodb"
+            ],
+            "function": [
+                "Powered by Google's Gemini AI model",
+                "RESTful API using FastAPI",
+                "Bilingual support (English/Thai)",
+                "Restaurant menu queries",
+                "Show Database"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/restaurant-agent/1.jpg",
+                "https://warathepj.github.io/my-project-images/restaurant-agent/2.jpg",
+                "https://warathepj.github.io/my-project-images/restaurant-agent/3.jpg",
+                "https://warathepj.github.io/my-project-images/restaurant-agent/4.jpg"
+            ],
             "web": "",
-
             "github": "",
             "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
             "sellId": "4",
@@ -276,10 +918,28 @@
             "name": "Three.js Rotate Donut",
             "description": "Shows an animation of a donut rotating around an axis.",
             "category": "3D on web",
-            "techStack": ["Three.js (r128)", "HTML5", "JavaScript"],
-            "tag": ["three js", "3d", "html", "javascript"],
-            "function": ["3D donut model with metallic material", "Interactive orbital controls for camera movement", "Responsive design that adapts to window resizing", "Ambient and point lighting for realistic rendering", "Automatic rotation animation", "Axis helper for orientation"],
-            "images": ["https://warathepj.github.io/my-project-images/threejs-rotate-donut/1.jpg"],
+            "techStack": [
+                "Three.js (r128)",
+                "HTML5",
+                "JavaScript"
+            ],
+            "tag": [
+                "three js",
+                "3d",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "3D donut model with metallic material",
+                "Interactive orbital controls for camera movement",
+                "Responsive design that adapts to window resizing",
+                "Ambient and point lighting for realistic rendering",
+                "Automatic rotation animation",
+                "Axis helper for orientation"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/threejs-rotate-donut/1.jpg"
+            ],
             "web": "https://threejs-rotate-donut.vercel.app/",
             "github": "https://github.com/warathepj/threejs-rotate-donut"
         },
@@ -288,10 +948,33 @@
             "name": "React js Task Manager",
             "description": "Task Manager, To-do List",
             "category": "Task Manager",
-            "techStack": ["React js", "Tailwind css", "typescript", "Shadcn ui"],
-            "tag": ["react", "tailwind", "typescript", "shadcn", "todo list", "task manager"],
-            "function": ["Create, read, update, and delete todos", "Mark todos as complete/incomplete", "Persistent storage using SQLite", "Modern UI with shadcn/ui components", "Real-time updates", "Error handling and validation", "TypeScript support", "Responsive design TODO"],
-            "images": ["https://warathepj.github.io/my-project-images/todo-list-sqlite/1.jpg"],
+            "techStack": [
+                "React js",
+                "Tailwind css",
+                "typescript",
+                "Shadcn ui"
+            ],
+            "tag": [
+                "react",
+                "tailwind",
+                "typescript",
+                "shadcn",
+                "todo list",
+                "task manager"
+            ],
+            "function": [
+                "Create, read, update, and delete todos",
+                "Mark todos as complete/incomplete",
+                "Persistent storage using SQLite",
+                "Modern UI with shadcn/ui components",
+                "Real-time updates",
+                "Error handling and validation",
+                "TypeScript support",
+                "Responsive design TODO"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/todo-list-sqlite/1.jpg"
+            ],
             "web": "https://todo-mancer.vercel.app",
             "github": "https://github.com/warathepj/todo-mancer.git"
         },
@@ -300,10 +983,39 @@
             "name": "Chat With Database",
             "description": "Interact with a SQLite database using natural language queries",
             "category": "AI Agent",
-            "techStack": ["Langchain", "Python", "Gemini API", "FastAPI", "Uvicorn", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
-            "tag": ["next", "gemini", "tailwind", "ai agent", "langchain", "fastapi", "uvicorn", "shadcn"],
-            "function": ["AI-powered conversational interface", "Multilingual", "Query database using natural language", "Database table"],
-            "images": ["https://warathepj.github.io/my-project-images/chat-with-database/1.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/2.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/3.jpg", "https://warathepj.github.io/my-project-images/chat-with-database/4.jpg"],
+            "techStack": [
+                "Langchain",
+                "Python",
+                "Gemini API",
+                "FastAPI",
+                "Uvicorn",
+                "Next js",
+                "TypeScript",
+                "Tailwind CSS",
+                "shadcn"
+            ],
+            "tag": [
+                "next",
+                "gemini",
+                "tailwind",
+                "ai agent",
+                "langchain",
+                "fastapi",
+                "uvicorn",
+                "shadcn"
+            ],
+            "function": [
+                "AI-powered conversational interface",
+                "Multilingual",
+                "Query database using natural language",
+                "Database table"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/chat-with-database/1.jpg",
+                "https://warathepj.github.io/my-project-images/chat-with-database/2.jpg",
+                "https://warathepj.github.io/my-project-images/chat-with-database/3.jpg",
+                "https://warathepj.github.io/my-project-images/chat-with-database/4.jpg"
+            ],
             "web": "",
             "github": "",
             "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
@@ -316,10 +1028,27 @@
             "name": "Next js Portfolio Site",
             "description": "Portfolio Site",
             "category": "Portfolio Site",
-            "techStack": ["Next js", "Tailwind css", "javascript"],
-            "tag": ["next", "tailwind", "javascript", "portfolio"],
-            "function": ["home page", "Portfolio page", "Testimonials page"],
-            "images": ["https://warathepj.github.io/my-project-images/nextjs-portfolio-site/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/03.jpg"],
+            "techStack": [
+                "Next js",
+                "Tailwind css",
+                "javascript"
+            ],
+            "tag": [
+                "next",
+                "tailwind",
+                "javascript",
+                "portfolio"
+            ],
+            "function": [
+                "home page",
+                "Portfolio page",
+                "Testimonials page"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/01.jpg",
+                "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/02.jpg",
+                "https://warathepj.github.io/my-project-images/nextjs-portfolio-site/03.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/nextjs-portfolio-site"
         },
@@ -328,10 +1057,42 @@
             "name": "ChatGEMINI",
             "description": "AI Agent chatbot application",
             "category": "Chatbot",
-            "techStack": ["PydanticAI", "Python", "Gemini API", "FastAPI", "Uvicorn", "logfire", "Next js", "TypeScript", "Tailwind CSS", "shadcn"],
-            "tag": ["next", "gemini", "tailwind", "chatbot", "pydanticai", "fastapi", "uvicorn", "logfire", "shadcn"],
-            "function": ["Login with Google", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "System Prompt", "chat history"],
-            "images": ["https://warathepj.github.io/my-project-images/chatgemini/1.jpg", "https://warathepj.github.io/my-project-images/chatgemini/2.jpg", "https://warathepj.github.io/my-project-images/chatgemini/3.jpg"],
+            "techStack": [
+                "PydanticAI",
+                "Python",
+                "Gemini API",
+                "FastAPI",
+                "Uvicorn",
+                "logfire",
+                "Next js",
+                "TypeScript",
+                "Tailwind CSS",
+                "shadcn"
+            ],
+            "tag": [
+                "next",
+                "gemini",
+                "tailwind",
+                "chatbot",
+                "pydanticai",
+                "fastapi",
+                "uvicorn",
+                "logfire",
+                "shadcn"
+            ],
+            "function": [
+                "Login with Google",
+                "AI-powered conversational interface",
+                "Multilingual",
+                "Assign roles to AI",
+                "System Prompt",
+                "chat history"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/chatgemini/1.jpg",
+                "https://warathepj.github.io/my-project-images/chatgemini/2.jpg",
+                "https://warathepj.github.io/my-project-images/chatgemini/3.jpg"
+            ],
             "web": "",
             "github": "",
             "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
@@ -344,10 +1105,26 @@
             "name": "html css js Todo List",
             "description": "Todo List",
             "category": "Todo List",
-            "techStack": ["html", "css", "javascript"],
-            "tag": ["html", "css", "Javascript", "todo list"],
-            "function": ["สร้าง Todo List", "ติ๊กถูก เมื่องานเสร็จแล้ว", "ลบงานที่เสร็จแล้ว"],
-            "images": ["https://warathepj.github.io/my-project-images/html-css-js-todolist/01.jpg", "https://warathepj.github.io/my-project-images/html-css-js-todolist/02.jpg"],
+            "techStack": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "tag": [
+                "html",
+                "css",
+                "Javascript",
+                "todo list"
+            ],
+            "function": [
+                "สร้าง Todo List",
+                "ติ๊กถูก เมื่องานเสร็จแล้ว",
+                "ลบงานที่เสร็จแล้ว"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/html-css-js-todolist/01.jpg",
+                "https://warathepj.github.io/my-project-images/html-css-js-todolist/02.jpg"
+            ],
             "web": "https://warathepj.github.io/html-js-todo-list/",
             "github": "https://github.com/warathepj/html-js-todo-list"
         },
@@ -356,10 +1133,30 @@
             "name": "Nextjs Gemini Chatbot",
             "description": "AI-powered chatbot application",
             "category": "Chatbot",
-            "techStack": ["Next js", "Gemini API", "Tailwind CSS"],
-            "tag": ["next", "gemini", "tailwind", "chatbot"],
-            "function": ["simple Login", "AI-powered conversational interface", "Multilingual", "Assign roles to AI", "Speak according to the given database"],
-            "images": ["https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/01.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/02.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/03.jpg", "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/04.jpg"],
+            "techStack": [
+                "Next js",
+                "Gemini API",
+                "Tailwind CSS"
+            ],
+            "tag": [
+                "next",
+                "gemini",
+                "tailwind",
+                "chatbot"
+            ],
+            "function": [
+                "simple Login",
+                "AI-powered conversational interface",
+                "Multilingual",
+                "Assign roles to AI",
+                "Speak according to the given database"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/01.jpg",
+                "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/02.jpg",
+                "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/03.jpg",
+                "https://warathepj.github.io/my-project-images/nextjs-gemini-chatbot/04.jpg"
+            ],
             "web": "",
             "github": "",
             "sell": "สนใจซอร์สโค้ดคลิกที่นี่",
@@ -372,10 +1169,29 @@
             "name": "Emoji Convert Game",
             "description": "Guess the word from the emoji game",
             "category": "Game",
-            "techStack": ["Vue JS", "Sweet Alert", "Tailwind CSS"],
-            "tag": ["vuejs", "game", "tailwind", "sweetalert"],
-            "function": ["Randomly show emojis", "User can guess the word", "Show the score", "Show the hint"],
-            "images": ["https://warathepj.github.io/my-project-images/emoji-convert/01.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/02.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/03.jpg", "https://warathepj.github.io/my-project-images/emoji-convert/04.jpg"],
+            "techStack": [
+                "Vue JS",
+                "Sweet Alert",
+                "Tailwind CSS"
+            ],
+            "tag": [
+                "vuejs",
+                "game",
+                "tailwind",
+                "sweetalert"
+            ],
+            "function": [
+                "Randomly show emojis",
+                "User can guess the word",
+                "Show the score",
+                "Show the hint"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/emoji-convert/01.jpg",
+                "https://warathepj.github.io/my-project-images/emoji-convert/02.jpg",
+                "https://warathepj.github.io/my-project-images/emoji-convert/03.jpg",
+                "https://warathepj.github.io/my-project-images/emoji-convert/04.jpg"
+            ],
             "web": "https://vuejs-emoji-convert-game.vercel.app/",
             "github": "https://github.com/warathepj/vuejs-emoji-convert-game"
         },
@@ -384,10 +1200,21 @@
             "name": "Node js Telegram Notification",
             "description": "Notification",
             "category": "Notification",
-            "techStack": ["Node js", "node-telegram-bot-api"],
-            "tag": ["nodejs", "notification", "telegram"],
-            "function": ["test send notification message from node js to Telegram"],
-            "images": ["https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"],
+            "techStack": [
+                "Node js",
+                "node-telegram-bot-api"
+            ],
+            "tag": [
+                "nodejs",
+                "notification",
+                "telegram"
+            ],
+            "function": [
+                "test send notification message from node js to Telegram"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/nodejs-telegram-noti/01.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/nodejs-telegram-noti"
         },
@@ -396,10 +1223,21 @@
             "name": "Rust File Manager",
             "description": "File Manager",
             "category": "File Manager",
-            "techStack": ["Rust"],
-            "tag": ["rust"],
-            "function": ["Create File", "Read Directory"],
-            "images": ["https://warathepj.github.io/my-project-images/rust-file-manager/01.jpg", "https://warathepj.github.io/my-project-images/rust-file-manager/02.jpg", "https://warathepj.github.io/my-project-images/rust-file-manager/03.jpg"],
+            "techStack": [
+                "Rust"
+            ],
+            "tag": [
+                "rust"
+            ],
+            "function": [
+                "Create File",
+                "Read Directory"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/rust-file-manager/01.jpg",
+                "https://warathepj.github.io/my-project-images/rust-file-manager/02.jpg",
+                "https://warathepj.github.io/my-project-images/rust-file-manager/03.jpg"
+            ],
             "web": "",
             "github": "https://github.com/warathepj/rust-file-manager"
         },
@@ -408,10 +1246,30 @@
             "name": "AI Gallery",
             "description": "Image Gallery",
             "category": "Image Gallery",
-            "techStack": ["Next js", "Tailwind css"],
-            "tag": ["next", "tailwind"],
-            "function": ["Responsive Design", "Image Hover Effect", "Prompt", "Image Category", "Favorite Image"],
-            "images": ["https://warathepj.github.io/my-project-images/ai-gallery/01.png", "https://warathepj.github.io/my-project-images/ai-gallery/02.png", "https://warathepj.github.io/my-project-images/ai-gallery/03.png", "https://warathepj.github.io/my-project-images/ai-gallery/04.png", "https://warathepj.github.io/my-project-images/ai-gallery/05.png", "https://warathepj.github.io/my-project-images/ai-gallery/06.png", "https://warathepj.github.io/my-project-images/ai-gallery/07.png"],
+            "techStack": [
+                "Next js",
+                "Tailwind css"
+            ],
+            "tag": [
+                "next",
+                "tailwind"
+            ],
+            "function": [
+                "Responsive Design",
+                "Image Hover Effect",
+                "Prompt",
+                "Image Category",
+                "Favorite Image"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/ai-gallery/01.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/02.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/03.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/04.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/05.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/06.png",
+                "https://warathepj.github.io/my-project-images/ai-gallery/07.png"
+            ],
             "web": "https://nextjs-ai-gallery.vercel.app/",
             "github": "https://github.com/warathepj/nextjs-ai-gallery"
         },
@@ -420,13 +1278,32 @@
             "name": "QuickQR",
             "description": "JavaScript QR Code Generator",
             "category": "QR Code Generator",
-            "techStack": ["html", "css", "javascript"],
-            "tag": ["html", "css", "Javascript"],
-            "function": ["Responsive Design", "Cursor Pointer Effect", "Convert URL or text to QR Code", "Choose the color of the QR code", "Download QR Code"],
-            "images": ["https://warathepj.github.io/my-project-images/js-qr-code-generator/01.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/02.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/03.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/04.png", "https://warathepj.github.io/my-project-images/js-qr-code-generator/05.png"],
+            "techStack": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "tag": [
+                "html",
+                "css",
+                "Javascript"
+            ],
+            "function": [
+                "Responsive Design",
+                "Cursor Pointer Effect",
+                "Convert URL or text to QR Code",
+                "Choose the color of the QR code",
+                "Download QR Code"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/js-qr-code-generator/01.png",
+                "https://warathepj.github.io/my-project-images/js-qr-code-generator/02.png",
+                "https://warathepj.github.io/my-project-images/js-qr-code-generator/03.png",
+                "https://warathepj.github.io/my-project-images/js-qr-code-generator/04.png",
+                "https://warathepj.github.io/my-project-images/js-qr-code-generator/05.png"
+            ],
             "web": "https://warathepj.github.io/js-qr-code-generator/",
             "github": "https://github.com/warathepj/js-qr-code-generator"
         }
-       
     ]
 }
