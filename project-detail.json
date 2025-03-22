@@ -1,6 +1,60 @@
 {
     "projectDetail": [
         {
+            "id": "41",
+            "name": "3D Collision Detection Demo",
+            "description": "A simple Three.js-based demonstration of 3D collision detection between objects using Axis-Aligned Bounding Box (AABB) collision checking and a collision matrix system.",
+            "category": "3D on Web",
+            "techStack": [
+                "Three.js",
+                "JavaScript",
+                "HTML"
+            ],
+            "tag": [
+                "three js",
+                "aabb collision detection",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Real-time 3D rendering using Three.js",
+                "AABB collision detection between two cubes",
+                "Collision counter display",
+                "Orbit controls for camera manipulation",
+                "Collision matrix implementation for tracking object interactions"
+            ],
+            "images": [
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/threejs-array-collision-metrix.git"
+        },
+        {
+            "id": "40",
+            "name": "Node.js Promises Demo",
+            "description": "This repository demonstrates the power of Node.js promises in different scenarios, with practical examples showing how to use promises for asynchronous operations in web applications.",
+            "category": "Demo",
+            "techStack": [
+                "Node js",
+                "JavaScript",
+                "HTML"
+            ],
+            "tag": [
+                "node js",
+                "promises",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Parallel File Processing",
+                "Promise Chaining for User Registration",
+                "Error Handling with API Fallback"
+            ],
+            "images": [
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/nodejs-promises.git"
+        },
+        {
             "id": "39",
             "name": "Telegram AI Secretary Bot",
             "description": "A FastAPI-powered Telegram bot that acts as an AI secretary, helping you manage tasks, notes, and conversations using Google's Gemini AI model.",
