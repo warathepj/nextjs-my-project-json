@@ -1,6 +1,210 @@
 {
     "projectDetail": [
         {
+            "id": "47",
+            "name": "AI Cat Story Generator",
+            "description": "A web application that fetches cat facts from catfact.ninja, enhances them using AI, and displays the generated stories through a Node.js server.",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "Node js",
+                "HTML",
+                "JavaScript",
+                "webhook"
+            ],
+            "tag": [
+                "n8n",
+                "automation",
+                "ai agent",
+                "node js",
+                "javascript",
+                "html",
+                "webhook"
+            ],
+            "function": [
+                "Frontend: Simple HTML page with a button to trigger story generation",
+                "Backend: Node.js server handling webhook requests",
+                "n8n: Workflow automation to fetch cat facts and process with AI",
+                "API: Integration with catfact.ninja for initial cat facts"
+            ],
+            "images": [
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-cat-story.git"
+        },
+        {
+            "id": "46",
+            "name": "Ice Cream Storage Temperature Monitor",
+            "description": "A Node.js application that monitors freezer temperature and sends alerts via Telegram when temperature rises above safe levels for ice cream storage (-12°C).",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "Telegram",
+                "Node js",
+                "JavaScript",
+                "MQTT",
+                "webhook"
+            ],
+            "tag": [
+                "n8n",
+                "telegram",
+                "automation",
+                "node js",
+                "javascript",
+                "mqtt",
+                "webhook"
+            ],
+            "function": [
+                "Temperature simulator (`simulator.js`) - Generates random temperature data",
+                "MQTT broker (test.mosquitto.org) (for test only!!!) - Handles message routing",
+                "Server (`server.js`) - Processes temperature data and forwards to n8n",
+                "n8n workflow - Handles temperature threshold checks and Telegram notifications"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/n8n-icecream/1.jpg",
+                "https://warathepj.github.io/my-project-images/n8n-icecream/2.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-icecream.git"
+        },
+        {
+            "id": "45",
+            "name": "Room Temperature Monitor",
+            "description": "A Node.js application that monitors room temperature data using MQTT and automatically logs it to Google Sheets via n8n automation.",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "Google Sheets",
+                "Node js",
+                "JavaScript",
+                "MQTT",
+                "webhook"
+            ],
+            "tag": [
+                "n8n",
+                "google sheets",
+                "automation",
+                "node js",
+                "javascript",
+                "mqtt",
+                "webhook"
+            ],
+            "function": [
+                "A temperature simulator that generates and publishes random temperature readings",
+                "A server that receives the temperature data and forwards it to n8n for Google Sheets integration",
+                "Webhook integration with N8N"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/n8n-sheets-room-temp/1.jpg",
+                "https://warathepj.github.io/my-project-images/n8n-sheets-room-temp/2.jpg",
+                "https://warathepj.github.io/my-project-images/n8n-sheets-room-temp/3.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-sheets-room-temp.git"
+        },
+        {
+            "id": "44",
+            "name": "Modern Grayscale Chatbot with N8N & Gemini Integration",
+            "description": "A sleek Node.js web application featuring a modern grayscale chat interface that connects to N8N workflows powered by Google's Gemini LLM for intelligent conversations.",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "gemini",
+                "Node js",
+                "JavaScript",
+                "Axios",
+                "webhook"
+            ],
+            "tag": [
+                "n8n",
+                "gemini",
+                "automation",
+                "node js",
+                "javascript",
+                "axios",
+                "webhook",
+                "ai",
+                "chatbot"
+            ],
+            "function": [
+                "Modern grayscale UI with responsive design",
+                "Real-time chat interface",
+                "Webhook integration with N8N",
+                "Gemini LLM-powered responses",
+                "Environment variable configuration"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/n8n-gemini-nodejs-html/1.jpg",
+                "https://warathepj.github.io/my-project-images/n8n-gemini-nodejs-html/2.jpg",
+                "https://warathepj.github.io/my-project-images/n8n-gemini-nodejs-html/3.jpg"
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-chatbot-gemini-nodejs-html.git "
+        },
+        {
+            "id": "43",
+            "name": "n8n Demo Gemini Nodejs",
+            "description": "A simple Node.js application that sends messages to webhooks using Axios HTTP client.",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "gemini",
+                "Node js",
+                "Axios",
+                "webhook"
+            ],
+            "tag": [
+                "n8n",
+                "gemini",
+                "automation",
+                "node js",
+                "axios",
+                "webhook",
+                "ai",
+                "chatbot"
+            ],
+            "function": [
+                "Demo connection n8n to node js",
+                "Send POST requests to webhooks",
+                "Handle responses and errors",
+                "Uses Axios for HTTP requests"
+            ],
+            "images": [
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-demo-gemini-nodejs.git"
+        },
+        {
+            "id": "42",
+            "name": "MST Algorithms Visualization",
+            "description": "An interactive web-based visualization tool for Minimum Spanning Tree (MST) algorithms, demonstrating both Kruskal's and Prim's algorithms in action.",
+            "category": "Algorithms",
+            "techStack": [
+                "CSS",
+                "JavaScript",
+                "HTML"
+            ],
+            "tag": [
+                "css",
+                "mst algorithms",
+                "html",
+                "javascript"
+            ],
+            "function": [
+                "Interactive graph creation and manipulation",
+                "Visual demonstration of two MST algorithms:- Kruskal's Algorithm - Prim's Algorithm",
+                "Real-time visualization of algorithm execution",
+                "Color-coded edges showing: - Regular edges (gray) - Currently considered edges (orange) - MST edges (green)"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/mst-algorithm/1.jpg",
+                "https://warathepj.github.io/my-project-images/mst-algorithm/2.jpg",
+                "https://warathepj.github.io/my-project-images/mst-algorithm/3.jpg"
+            ],
+            "web": "https://js-mst-algorithm.vercel.app/",
+            "github": "https://github.com/warathepj/js-mst-algorithm.git"
+        },
+        {
             "id": "41",
             "name": "3D Collision Detection Demo",
             "description": "A simple Three.js-based demonstration of 3D collision detection between objects using Axis-Aligned Bounding Box (AABB) collision checking and a collision matrix system.",
