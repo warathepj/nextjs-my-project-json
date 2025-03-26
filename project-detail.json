@@ -1,6 +1,40 @@
 {
     "projectDetail": [
         {
+            "id": "48",
+            "name": "Animal Habitat Explorer",
+            "description": "An interactive educational game where players match animals to their natural habitats. Built with React, TypeScript, and shadcn/ui components.",
+            "category": "Game",
+            "techStack": [
+                "React",
+                "Vite",
+                "TypeScript",
+                "shadcn/ui",
+                "Tailwind CSS",
+                "React Query",
+                "React Router DOM",
+                "React Hook Form",
+                "Zod"
+            ],
+            "tag": [
+                "react",
+                "vite",
+                "typescript",
+                "shadcn-ui",
+                "tailwind css"
+            ],
+            "function": [
+                "Match animals to their correct natural habitats.",
+                "Drag animals from the left side of the screen",
+                "Drop them into what you think is their correct habitat on the right side"
+            ],
+            "images": [
+                "https://warathepj.github.io/my-project-images/react-drag-n-drop//1.jpg"
+            ],
+            "web": "https://habitat-harmony-explorer.vercel.app/",
+            "github": "https://github.com/warathepj/habitat-harmony-explorer.git"
+        },
+        {
             "id": "47",
             "name": "AI Cat Story Generator",
             "description": "A web application that fetches cat facts from catfact.ninja, enhances them using AI, and displays the generated stories through a Node.js server.",
