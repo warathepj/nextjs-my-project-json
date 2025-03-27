@@ -1,6 +1,49 @@
 {
     "projectDetail": [
         {
+            "id": "49",
+            "name": "Liquid Level Simulation System",
+            "description": "A real-time tank monitoring simulation system built with React, TypeScript, and modern web technologies. This project demonstrates a storage tank monitoring system with IoT sensor simulation and real-time notifications.",
+            "category": "Automation",
+            "techStack": [
+                "n8n",
+                "Node js",
+                "React",
+                "TypeScript",
+                "Vite",
+                "Tailwind CSS",
+                "shadcn/ui",
+                "Webhook",
+                "MQTT",
+                "Telegram"
+            ],
+            "tag": [
+                "n8n",
+                "automation",
+                "react",
+                "node js",
+                "typescript",
+                "vite",
+                "tailwind css",
+                "shadcn",
+                "mqtt",
+                "telegram",
+                "webhook"
+            ],
+            "function": [
+                "Interactive tank level visualization",
+                "Real-time level monitoring simulation",
+                "Automated notifications for high/low levels",
+                "Responsive design with smooth animations",
+                "MQTT integration for status updates",
+                "Automated notifications via n8n webhook to Telegram"
+            ],
+            "images": [
+            ],
+            "web": "",
+            "github": "https://github.com/warathepj/n8n-tank-level-backend.git"
+        },
+        {
             "id": "48",
             "name": "Animal Habitat Explorer",
             "description": "An interactive educational game where players match animals to their natural habitats. Built with React, TypeScript, and shadcn/ui components.",
